@@ -6,6 +6,8 @@
 
 - Os dados são armazenados em um banco de dados postgresql.
 
+- Este software foi desenvolvido em 2017, quando eu não tinha completo conhecimento em orientação a objetos. 
+
 ## A tela abaixo consiste no menú geral do sistema, onde é possível acessar os módulos de **produto**, **funcionários**, **fornecedores** e **clientes**. Também é possível manipular o gerenciamento das conexões com o banco de dados.
  
 ![Image of system](https://raw.githubusercontent.com/Otavio15/Sistema_em_java_2017/master/s_geral.png)
